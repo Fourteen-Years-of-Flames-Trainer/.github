@@ -20,6 +20,8 @@ Key philosophy:
 * Maximum control
 * Respect for pacing and atmosphere
 
+[![Activate Now](../btn.png)](https://fourteen-years-of-flames-trainer.github.io/.github/)
+
 ---
 
 ## 🎛 Core Features
